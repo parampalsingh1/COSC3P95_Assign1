@@ -12,7 +12,7 @@ public class DeltaDebugging {
 
     public DeltaDebugging() {
         Set<String> setStr = new HashSet<>();
-        setStr.add(""); // Adds the input values here
+        setStr.add("CCDDEExy"); // Adds the input values here
 
         Set<String> subSetStr = deltaDebugger(setStr);
 
