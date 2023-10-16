@@ -56,6 +56,7 @@ public class RandomTestCaseGenerator {
         return true;
     }
 
+    // This method sorts the given input in ascending order
     public static void sortArray(int[] arr) {
         boolean swap = true;
 
